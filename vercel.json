@@ -1,6 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "outputDirectory": "schiavon-transportes",
+  "outputDirectory": "schiavon-landing",
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [
